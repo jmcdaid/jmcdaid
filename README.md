@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### About me: John McDaid (he/him)
+- 🔭 I’m currently working on "Uncle Buddy's Phantom Funhouse"
+- 🌱 I’m currently learning git
+- 📫 How to reach me: jmcdaid on most social media
+- ⚡ Fun fact: Facts are meaningless unless embedded in a narrative.
+---
+> "Lorem ipsum" 
 <!--
 **jmcdaid/jmcdaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
