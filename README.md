@@ -4,7 +4,7 @@
 - 📫 How to reach me: jmcdaid on most social media
 - ⚡ Fun fact: Facts are meaningless unless embedded in a narrative.
 ---
-> "Lorem ipsum" 
+> "Alles ist weit, und nirgends schließt sich der Kreis." - Rilke, *Sonnets to Orpheus*, Sonnet XX
 <!--
 **jmcdaid/jmcdaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
